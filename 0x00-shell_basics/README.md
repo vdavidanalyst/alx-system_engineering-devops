@@ -1,1 +1,1 @@
-script that creates the directories
+command that lists all the files with comma
