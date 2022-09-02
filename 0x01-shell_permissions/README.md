@@ -1,1 +1,1 @@
-script that prints all the groups the current user is part of
+cript that changes the owner of the file
