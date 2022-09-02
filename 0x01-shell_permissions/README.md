@@ -1,1 +1,1 @@
-cript that changes the owner of the file
+script that creates an empty file
